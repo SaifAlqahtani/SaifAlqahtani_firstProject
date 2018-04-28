@@ -2,6 +2,7 @@ package lab2;
 
 public class Section {
 
+	private int saif = 0 ;
 private String course ;
 private Student[] studentList ;
 private int nStudent ; 
